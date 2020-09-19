@@ -12,7 +12,7 @@ for ($i = 0; $i < 10; $i++) {
     $hashatual =hash('sha256', $texto);
     $texto = $texto."Hash: ".$hashatual."\nHash Anterior: ".$hashAnterior;  
 
-    $arquivo = "bloco_".$i.".txt";
+    $arquivo = "result_".$i.".txt";
     if (file_exists ($arquivo)) {
     unlink($arquivo);
     }
