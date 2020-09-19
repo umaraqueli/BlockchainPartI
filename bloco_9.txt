@@ -1,0 +1,5 @@
+Origem: Betts
+Destino: Chase
+Mensagem: Ola Chase. Meu nome é Betts.
+Hash: 95dbe82297dc7a8b1a3df372567b7647aea4ba89db031c3c8365ac79bb5040e6
+Hash Anterior: 4c6978057929f750a0d08226940c4111d7b140a6b4c3784fb3e2655adaf94906
